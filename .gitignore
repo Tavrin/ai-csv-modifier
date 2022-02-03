@@ -1,0 +1,7 @@
+.env
+.idea
+./idea
+.virtualenv
+./virtualenv
+__pycache__
+speech-generator/__pycache__
